@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"mysql"
+	"github.com/qingwenjie/mysql"
 )
 
 func main() {

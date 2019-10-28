@@ -1,4 +1,4 @@
-module mysql
+module github.com/qingwenjie/mysql
 
 go 1.13
 
